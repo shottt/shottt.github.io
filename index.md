@@ -8,7 +8,6 @@ PHP、Javascript、jQuery、Vue.js、Laravelを使ってwebアプリの開発が
 - web開発
 
 # Skills
-使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
 - OS（Windows,Ubuntuなど）
 - Languages（JavaScriptなど）
 - Engine,Frameworks (Node.js, Expressなど)
