@@ -6,5 +6,3 @@ PHP、Javascript、jQuery、Vue.js、Laravelを使ってwebアプリの開発が
 - sho shimizu
 - 京都府
 - web開発
-## Welcome to GitHub Pages
-## Welcome to GitHub Pages
