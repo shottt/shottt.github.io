@@ -7,23 +7,30 @@ PHP、Javascript、jQuery、Vue.js、Laravelを使ってwebアプリの開発が
 - 京都府
 - web開発
 
-# マークダウンの入力例
-改行されない文章です
-改行されない文章です  
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- OS（Windows,Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+- 資格、免許（情報処理技術者、LPICなど）
 
-改行された文章です  
-改行された文章です
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](GitHubのURL)
+- [Qiita](QiitaのURL)
+- 作った作品
+  - [作品1](作品1のURL)
+  - [作品2](作品2のURL)
 
-段落です
+# Contact
+連絡先を書きましょう。
+- [Twitter](TwitterプロフィールのURL)
+- [LinkedIn](LinkedInプロフィールのURL)
+- [Mail](mailto:メールアドレス)
 
-[リンクです](https://nnn.ed.nico)
-
-順序なしリスト
-- 要素1
-- 要素2
-- 要素3
-
-順序つきリスト
-1. 要素1
-1. 要素2
-1. 要素3
+# History
+学歴、職歴、アルバイト、インターン経験など。
+- 2019年 [株式会社ドワンゴ](URL) 入社
+- 2018年 角川ドワンゴ学園 [N高等学校](URL) 卒業
+- 表彰、受賞歴、メディア掲載記事などあれば
